@@ -1,0 +1,7 @@
+raclette
+kebab
+salade
+soupe
+burger
+steak
+poulet
